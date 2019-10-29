@@ -42,10 +42,6 @@
     "dotenv": "^8.0.0",
     "express": "^4.17.1",
     "helmet": "^3.21.1",
-    "jsforce": "^1.9.1",
-    "loggaroo": "^2.0.1",
-    "md5": "^2.2.1",
-    "snyk": "^1.223.0"
+    "loggaroo": "^2.0.1"
   },
-  "snyk": true
 }
